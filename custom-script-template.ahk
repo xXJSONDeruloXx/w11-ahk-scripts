@@ -11,10 +11,13 @@
 ; ========================================================================
 
 ; ---- INSTRUCTIONS ----
-; 1. Save this file with a descriptive name (e.g., my-custom-hotkeys.ahk)
-; 2. Replace the header information above with your details
-; 3. Add your custom hotkeys below
-; 4. Delete these instructions when done
+; 1. Save this file to the appropriate directory:
+;    - /keyboard-shortcuts/ for general keyboard shortcuts
+;    - Create a new subdirectory for a different category of scripts
+; 2. Save with a descriptive name (e.g., my-custom-hotkeys.ahk)
+; 3. Replace the header information above with your details
+; 4. Add your custom hotkeys below
+; 5. Delete these instructions when done
 ; -------------------------
 
 ; === Example Hotkeys (uncomment or modify as needed) ===
